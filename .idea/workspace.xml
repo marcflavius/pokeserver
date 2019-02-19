@@ -2,11 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dde448d0-bd8e-447d-a0ab-7879f81925c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/imports/collections/pokemon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser.legacy/program.json" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser.legacy/program.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/program.json" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/program.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/local/db/WiredTiger.turtle" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/local/db/WiredTiger.turtle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/local/db/WiredTiger.wt" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/local/db/WiredTiger.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/local/db/_mdb_catalog.wt" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/local/db/_mdb_catalog.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/local/db/collection-19-1259630064196244306.wt" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/local/db/collection-19-1259630064196244306.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/local/db/collection-22-1259630064196244306.wt" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/local/db/collection-22-1259630064196244306.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/local/db/collection-8-1259630064196244306.wt" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/local/db/collection-8-1259630064196244306.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/local/db/diagnostic.data/metrics.2019-02-18T23-10-09Z-00000" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/local/db/diagnostic.data/metrics.2019-02-18T23-10-09Z-00000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/local/db/diagnostic.data/metrics.interim" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/local/db/diagnostic.data/metrics.interim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/local/db/index-20-1259630064196244306.wt" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/local/db/index-20-1259630064196244306.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/local/db/index-21-1259630064196244306.wt" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/local/db/index-21-1259630064196244306.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/local/db/index-23-1259630064196244306.wt" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/local/db/index-23-1259630064196244306.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/local/db/index-25-1259630064196244306.wt" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/local/db/index-25-1259630064196244306.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/local/db/index-26-1259630064196244306.wt" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/local/db/index-26-1259630064196244306.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/local/db/index-29-1259630064196244306.wt" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/local/db/index-29-1259630064196244306.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/local/db/journal/WiredTigerLog.0000000003" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/local/db/journal/WiredTigerLog.0000000003" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/local/db/sizeStorer.wt" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/local/db/sizeStorer.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/local/shell/info.json" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/local/shell/info.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,10 +32,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/imports/collections/pokemon.js">
+        <entry file="file://$PROJECT_DIR$/server/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="566">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -49,8 +64,8 @@
         <option value="$PROJECT_DIR$/.meteor/packages" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.meteor/.gitignore" />
-        <option value="$PROJECT_DIR$/imports/collections/pokemon.js" />
         <option value="$PROJECT_DIR$/server/main.js" />
+        <option value="$PROJECT_DIR$/imports/collections/pokemon.js" />
       </list>
     </option>
   </component>
@@ -77,28 +92,7 @@
             <path>
               <item name="pokeserver" type="b2602c69:ProjectViewProjectNode" />
               <item name="pokeserver" type="462c0819:PsiDirectoryNode" />
-              <item name=".meteor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pokeserver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pokeserver" type="462c0819:PsiDirectoryNode" />
-              <item name="imports" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pokeserver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pokeserver" type="462c0819:PsiDirectoryNode" />
-              <item name="imports" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pokeserver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pokeserver" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pokeserver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pokeserver" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -118,6 +112,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,12 +145,12 @@
       <workItem from="1550500499916" duration="190000" />
       <workItem from="1550501054190" duration="1412000" />
       <workItem from="1550503603538" duration="3195000" />
-      <workItem from="1550511023538" duration="2534000" />
+      <workItem from="1550511023538" duration="4547000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11447000" />
+    <option name="totallyTimeSpent" value="13460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
@@ -219,17 +218,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/main.js">
+    <entry file="file://$PROJECT_DIR$/imports/collections/pokemon.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="232">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imports/collections/pokemon.js">
+    <entry file="file://$PROJECT_DIR$/server/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="566">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
