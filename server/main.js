@@ -1,6 +1,7 @@
 import { Meteor }  from 'meteor/meteor'
 import { Pokemon } from '../imports/collections/pokemon'
-import fs from 'fs'
+import fs          from 'fs'
+
 Meteor.startup(() => {
 	console.log("start")
 
@@ -15,7 +16,7 @@ Meteor.methods({
 			console.log('user not signed in')
 			return undefined
 		}
-		let range = 0.035
+		let range = 0.027
 		let rang1 = Math.random() > 0.5 ? range : -range
 		let rang2 = Math.random() > 0.5 ? range : -range
 		let long = loc.longitude
@@ -33,6 +34,15 @@ Meteor.methods({
 			longitude: long,
 			latitude: lat
 		})
+	},
+	'pokemon.subtract': function () {
+
+		let user = this.userId
+		if (!user) {
+			console.log('user not signed in')
+			return undefined
+		}
+		return Pokemon.remove({})
 	}
 
 })
